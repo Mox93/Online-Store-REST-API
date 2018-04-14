@@ -6,9 +6,9 @@ This is my first flask rest api. It's for practice purposes so don't expect any 
 
 ## Libraries
 
-'''
+```
 Flask
 Flask-RESTful
 Flask-JWT
 Flask-SQLAlchemy
-'''
+```
